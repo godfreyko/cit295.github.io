@@ -16,6 +16,6 @@ Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
 3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
 4. [Grading](https://cit295.github.io/grading)
-5. [Project Idea Examples](https://cit295.github.io/project_ideas)
-6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
-7. **You are Here:** Project Report Examples
+5. [Project Ideas](https://cit295.github.io/project_ideas)
+6. [Proposal Examples](https://cit295.github.io/proposal_examples)
+7. **You are Here:** Final Report Examples
