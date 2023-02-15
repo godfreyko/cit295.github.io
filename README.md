@@ -4,6 +4,7 @@ using the skills and knowledge they gained through their course of study in the 
 is designed to help students achieve the mission of BYU-Idaho – “develop disciples of Jesus
 Christ who are leaders in their homes, the Church, and their communities” ([University Mission
 Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
+
 ## Course Learning Outcomes (CLOs)
 1. Become a disciple of Jesus Christ through service
 2. Identify and act on opportunities to put technical knowledge and skills into practice in a
