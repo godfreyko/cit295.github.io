@@ -92,6 +92,6 @@ presentation will be given in the Canvas course.
 2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
 3. **You are Here:** Course Work Requirements
 4. [Grading](https://cit295.github.io/grading)
-5. [Project Idea Examples](https://cit295.github.io/project_ideas)
+5. [Project Ideas](https://cit295.github.io/project_ideas)
 6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
 7. [Project Report Examples](https://cit295.github.io/report_examples)
