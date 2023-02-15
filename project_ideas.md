@@ -9,7 +9,7 @@ Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 Examples of volunteer service performed by students in previous semesters are listed below
 with excerpts from their journal entries.
 
-1. Serve as an assistant instructor at “Coding of Kids” at a public library where children
+1. Serve as an assistant instructor at “Coding for Kids” at a public library where children
 ages 8 through 12 learn the programing concepts using Scratch (developed by MIT).
 *“Today there were a lot more children and they through a lot of interesting questions at
 me. ... The most interesting question of the day was a boy who was making a space
