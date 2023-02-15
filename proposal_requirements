@@ -28,6 +28,9 @@ needs of a specific organization or individual (referred to as the beneficiary).
 +Self-study for an industry certification
 +You cannot be paid or receive any other form of tangible remuneration for your service. (see Attestation for No Compensation below)
 +The service you engage in must be separate from any other course work you do at BYU-Idaho. (e.g. no double-counting)
++A reactive only approach (e.g. working as a security analyst only if security events are reported), 
+reactive work is allowable as a component of a plan as long as you have other proactive work that you can do
+that is within your control to complete.
 +Providing service for your current employer is a conflict of interest and is not permitted. Working outside of your normal hours without pay does not constitute a volunteer service and
 it will not qualify for CIT 295 Practicum course.
 
@@ -54,25 +57,30 @@ document, submit your proposal to [cit295@byui.edu](mailto:cit295@byui.edu)
 prior to the beginning of the semester in which you plan to take the course. Upon approval,
 you will receive an authorization to register for the course. All students will be admitted to the
 class (no waiting list) so long as their project proposals are approved.
+
 Consider yourself an IT professional and imagine you will be billing the client for the work
 you will do. The first task you have is to meet with your client, understand their needs,
 and create a contract. In your contract, you propose a solution which includes a concise
 description of what you will do for your client, how long it will take, and how much it will
 cost for each item you promise to deliver (e.g. add an online payment feature, 6 hours,
 $50 per hour). Your project proposal for this course should follow a similar pattern
-(except the cost estimate). The first task you have is to meet with your project sponsor,
+(except the cost estimate). 
+
+The first task you have is to meet with your project sponsor,
 understand their needs, and create a proposal document that outlines what you will do
 for the project sponsor. By the time you finish creating the proposal document, you
-should have a good understanding of what exactly you will be doing during the first
-week of the semester, the second week, the third week and so on. Your action plan
-should be documented as “goals” and “tasks” under the “Weekly Plan” in the “CIT 295
-Project Plan and Progress” document. While the majority of the service projects
+should have at least a general idea of what you hope to be doing during the first
+week of the semester, the second week, the third week and how much time you plan to invest each week. 
+Some weeks will likely be heavier than others and that is perfectly acceptable. Your action plan
+should be documented as “goals” and “tasks” under the “Weekly Plan” in the [CIT 295
+Project Proposal document. While the majority of the service projects
 students engage in require a detailed planning ahead of time, some don’t. If your service
-3
 is such that you only provide labor without planning or design (e.g. respond to IT tickets
 as an IT helpdesk technician), your “goals” for the “Weekly Plan” for all 13 weeks may be
 a statement of general tasks you will perform (e.g. “Process IT tickets which will be
-assigned to me when I arrive at work”).
+assigned to me when I arrive at work”). However, be sure to have a backup plan of meaningful, 
+technology-related work you can do during down times if you are planning such a reactive
+approach.
 
 ## Navigation
 1. [Course Learning Outcomes (CLOs)](https://cit295.github.io)
