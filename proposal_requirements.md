@@ -22,7 +22,7 @@ Finding a person/organization needing your knowledge, skills, personality, talen
 an effort and inspiration. You are encouraged to pray. The service you provide should meet the 
 needs of a specific organization or individual (referred to as the beneficiary). 
 
-**Examples of projects that will **NOT** be approved** 
+**Examples of projects that will NOT be approved** 
 +No specific beneficiary (e.g. upload video clips to YouTube for general consumption)
 +Focuses on satisfying your own personal interest (e.g. build a testbed to fulfill your curiosity) 
 +Self-study for an industry certification
