@@ -23,16 +23,15 @@ an effort and inspiration. You are encouraged to pray. The service you provide s
 needs of a specific organization or individual (referred to as the beneficiary). 
 
 **Examples of projects that will NOT be approved** 
-+No specific beneficiary (e.g. upload video clips to YouTube for general consumption)
-+Focuses on satisfying your own personal interest (e.g. build a testbed to fulfill your curiosity) 
-+Self-study for an industry certification
-+You cannot be paid or receive any other form of tangible remuneration for your service. (see Attestation for No Compensation below)
-+The service you engage in must be separate from any other course work you do at BYU-Idaho. (e.g. no double-counting)
-+A reactive only approach (e.g. working as a security analyst only if security events are reported), 
+-No specific beneficiary (e.g. upload video clips to YouTube for general consumption)
+-Focuses on satisfying your own personal interest (e.g. build a testbed to fulfill your curiosity) 
+-Self-study for an industry certification
+-You cannot be paid or receive any other form of tangible remuneration for your service. (see Attestation for No Compensation below)
+-The service you engage in must be separate from any other course work you do at BYU-Idaho. (e.g. no double-counting)
+-A reactive only approach (e.g. working as a security analyst only if security events are reported), 
 reactive work is allowable as a component of a plan as long as you have other proactive work that you can do
 that is within your control to complete.
-+Providing service for your current employer is a conflict of interest and is not permitted. Working outside of your normal hours without pay does not constitute a volunteer service and
-it will not qualify for CIT 295 Practicum course.
+-Providing service for your current employer is a conflict of interest and is not permitted. Working outside of your normal hours without pay does not constitute a volunteer service and it will not qualify for CIT 295 Practicum course.
 
 **CIT Related** Your volunteer service must be directly related to one of the disciplines of CIT (web design and
 development, networking, database administration, programming, security, system
