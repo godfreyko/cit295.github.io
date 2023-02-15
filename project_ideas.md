@@ -142,6 +142,6 @@ culture.”*
 2. [Project Proposal Requirements](https://cit295.github.io/proposal_requirements)
 3. [Course Work Requirements](https://cit295.github.io/course_work_requirements)
 4. [Grading](https://cit295.github.io/grading)
-5. **You Are Here:** Project Idea Examples
+5. **You Are Here:** Project Ideas
 6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
 7. [Project Report Examples](https://cit295.github.io/report_examples)
