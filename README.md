@@ -1,4 +1,4 @@
-# View the February 15th, 2023 Information Session at: https://video.byui.edu/media/t/1_7rlan6ck
+# View the February 15th, 2023 Information Session at: [https://video.byui.edu/media/t/1_7rlan6ck](https://video.byui.edu/media/t/1_7rlan6ck)
 
 # CIT 295 Practicum Syllabus
 CIT 295 Practicum engages students in service-learning opportunities to bless other lives by
