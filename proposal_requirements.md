@@ -51,7 +51,8 @@ project sponsor in your home country or outside of the US, you may volunteer for
 organization, including non-government and for-profit organizations as long as the nature of your
 service follows any legal guidelines or frameworks in that country.
 
-**Proposal** Using the [CIT 295 Project Proposal Template](https://webmailbyui-my.sharepoint.com/:w:/r/personal/kwg6_byui_edu/Documents/CIT%20295/CIT%20295%20Project%20Proposal%20Template.docx?d=w17f1dad3210542aa995fdd5dc081bbf1&csf=1&web=1&e=gmD9kn)
+**Proposal** Using the [CIT 295 Project Proposal Template](
+https://webmailbyui-my.sharepoint.com/:w:/g/personal/kwg6_byui_edu/EdPa8RcFIapCmV_dXcCBu_EBQg1gU6-3d7yImB2nKVfaAw)
 document, submit your proposal to [cit295@byui.edu](mailto:cit295@byui.edu)
 prior to the beginning of the semester in which you plan to take the course. Upon approval,
 you will receive an authorization to register for the course. All students will be admitted to the
