@@ -45,7 +45,7 @@ tech support, student support, market research, SOC analyst, tutor, etc.).
 
 **Attestation for No Compensation** Ask your project sponsor confirm the volunteer nature of 
 your service along with their compliance with applicable laws in the United States or the 
-country(ies) involved using the provided [CIT 295 Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:b:/r/personal/kwg6_byui_edu/Documents/CIT%20295/CIT%20295%20Attestation%20for%20No%20Compensation.pdf?csf=1&web=1&e=iVHRRy) form or writing
+country(ies) involved using the provided [CIT 295 Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:b:/g/personal/kwg6_byui_edu/EdtlZDQalHVEtLuMXKSjsKMBRb52AV-dW3KGRQ10s7R67Q?e=5vZjTt) form or writing
 their own letter to that effect and send it to [cit295@byui.edu](mailto:cit295@byui.edu). If you choose to find a
 project sponsor in your home country or outside of the US, you may volunteer for any type of
 organization, including non-government and for-profit organizations as long as the nature of your
