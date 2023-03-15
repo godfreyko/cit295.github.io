@@ -5,9 +5,12 @@ is designed to help students achieve the mission of BYU-Idaho – “develop dis
 Christ who are leaders in their homes, the Church, and their communities” ([University Mission
 Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 
-## Project Proposal Requirements
-To register for the class, you will need to write a proposal and receive an authorization from
-the course instructor. The following paragraphs outline the requirements.
+## Project Proposal Requirements (Short Version or TL;DR)
+To register for the class, you will need to submit two documents:
+1. Write a proposal and receive an authorization from the course instructor. 
+2. Have your project beneficiary (the organization and/or person benefitting from the service) acknowledge compliance with applicable labor laws (in the United States, they can submit the [CIT 295 Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:b:/g/personal/kwg6_byui_edu/EdtlZDQalHVEtLuMXKSjsKMBRb52AV-dW3KGRQ10s7R67Q?e=5vZjTt)).
+
+The following paragraphs outline the requirements in greater detail (e.g. Long version or Extended Detail version below).
 
 **Minimum of 39 Hours** You are asked to find an IT related volunteer service opportunity that 
 engages you in a semester-long service project with the minimum of 39 hours of service time 
