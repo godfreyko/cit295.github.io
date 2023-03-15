@@ -10,7 +10,8 @@ To register for the class, you will need to submit two documents:
 1. Write a proposal and receive an authorization from the course instructor. 
 2. Have your project beneficiary (the organization and/or person benefitting from the service) acknowledge compliance with applicable labor laws (in the United States, they can submit the [CIT 295 Attestation for No Compensation](https://webmailbyui-my.sharepoint.com/:b:/g/personal/kwg6_byui_edu/EdtlZDQalHVEtLuMXKSjsKMBRb52AV-dW3KGRQ10s7R67Q?e=5vZjTt)).
 
-The following paragraphs outline the requirements in greater detail (e.g. Long version or Extended Detail version below).
+## Long version or Extended Detail version below
+The following paragraphs outline the requirements in greater detail .
 
 **Minimum of 39 Hours** You are asked to find an IT related volunteer service opportunity that 
 engages you in a semester-long service project with the minimum of 39 hours of service time 
