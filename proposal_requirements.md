@@ -94,3 +94,4 @@ approach.
 5. [Project Ideas](https://cit295.github.io/project_ideas)
 6. [Proposal Examples](https://cit295.github.io/proposal_examples)
 7. [Final Report Examples](https://cit295.github.io/report_examples)
+8. [Service Opportunities](https://cit295.github.io/service_opportunities)
