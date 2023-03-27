@@ -19,3 +19,4 @@ Statement](https://www.byui.edu/about/byu-idaho-mission-statement)).
 5. [Project Ideas](https://cit295.github.io/project_ideas)
 6. [Proposal Examples](https://cit295.github.io/proposal_examples)
 7. **You are Here:** Final Report Examples
+8. [Service Opportunities](https://cit295.github.io/service_opportunities)
