@@ -26,3 +26,6 @@ The short version is that you will need to submit two documents to the Course In
 6. [Project Proposal Examples](https://cit295.github.io/proposal_examples)
 7. [Project Report Examples](https://cit295.github.io/report_examples)
 8. [Service Opportunities](https://cit295.github.io/service_opportunities)
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
