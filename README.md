@@ -9,6 +9,7 @@ How about trying a way where the opportunities can find you? Several students ha
 of social networking and professional networking by creating and sharing a post and then engaging in 
 conversation until the right opportunity opens up. Please note that non-profit and public service organizations
 (like schools and government organizations) make this whole process much simpler for everyone.
+
 ![CIT295SocialMediaPost](https://github.com/godfreyko/cit295.github.io/assets/5711262/4fe3bd9c-e2c8-481b-8d92-e8de9e9ae793)
 
 ## What do I need to do to be authorized to register for the course?
